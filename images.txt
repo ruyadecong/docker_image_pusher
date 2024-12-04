@@ -1,3 +1,2 @@
 nginx
 redis
-mysql:8.0.20
